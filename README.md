@@ -1,2 +1,2 @@
-# Wordpress-theme
-All themes by me
+# Generatepress Mod
+
